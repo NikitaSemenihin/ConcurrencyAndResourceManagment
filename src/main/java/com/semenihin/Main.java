@@ -1,6 +1,5 @@
 package com.semenihin;
 
-import java.util.Random;
 import java.util.concurrent.ExecutionException;
 
 public class Main {
